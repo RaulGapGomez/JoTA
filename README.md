@@ -1,2 +1,0 @@
-# JoTA
-All graphic paper
